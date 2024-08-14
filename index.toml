@@ -5,6 +5,10 @@ file = "bin/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
+file = "index.html"
+hash = "9b47b00fe60acc83fb81589812adb83042aa55ac0d2d9226bc5c1ac01dd88628"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
