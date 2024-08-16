@@ -1,0 +1,17 @@
+name = "Os' Colorful Grasses"
+filename = "Os' Colorful Grasses (Full+FluffierFerns).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/a9K5mVhc/Os%27%20Colorful%20Grasses%20%28Full%2BFluffierFerns%29.zip"
+hash-format = "sha1"
+hash = "1af45a1eb782c468a00d0d43b9585f80cfa32b06"
+
+[update]
+[update.modrinth]
+mod-id = "O2zhH8n8"
+version = "a9K5mVhc"
+
+[option]
+optional = true
+description = "Resource Pack - Adds agressively dense grass."

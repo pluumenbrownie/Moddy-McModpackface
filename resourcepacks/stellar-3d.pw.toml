@@ -1,0 +1,17 @@
+name = "Stellar 3D"
+filename = "Stellar 3D-2.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mp0WhBF/versions/VO2RCZJr/Stellar%203D-2.1.1.zip"
+hash-format = "sha1"
+hash = "235fa956abcf0d49b642ec876b74e4254abc33f0"
+
+[update]
+[update.modrinth]
+mod-id = "5mp0WhBF"
+version = "VO2RCZJr"
+
+[option]
+optional = true
+description = "Resource Pack - Adds 3D models with nice PBR effects to a bunch of blocks."

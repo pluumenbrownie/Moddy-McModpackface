@@ -1,0 +1,17 @@
+name = "Pixlli 1.21"
+filename = "Pixlli V33 1.21-1.13 128x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/FXHpNiyi/Pixlli%20V33%201.21-1.13%20128x.zip"
+hash-format = "sha1"
+hash = "ea7fcc469d6c414e1e2673b2f06a94011219c8bc"
+
+[update]
+[update.modrinth]
+mod-id = "E8fGzGhh"
+version = "FXHpNiyi"
+
+[option]
+optional = true
+description = "Resource Pack - A PBR pack, can give nice effects with shaders."

@@ -1,0 +1,17 @@
+name = "Falling Sakura (1.20 Update)"
+filename = "falling-sakura-1-1-1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNermW0b/versions/WUAucaRb/falling-sakura-1-1-1.zip"
+hash-format = "sha1"
+hash = "9a3dad3adbfe4bb9d747a25ce9d96a0463fc8a0b"
+
+[update]
+[update.modrinth]
+mod-id = "KNermW0b"
+version = "WUAucaRb"
+
+[option]
+optional = true
+description = "Resource Pack - Makes cherry leaves particles a bit cooler."

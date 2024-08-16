@@ -128,8 +128,18 @@ hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "c34d7228915013f3946f0943079644a44f653b9a378d129d733db249a790bed0"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
 metafile = true
 
 [[files]]
@@ -293,6 +303,11 @@ hash = "faf31f9b7dcda0e1d0c2df2a45defe58a477c0dfb7b8097985bc8d6067757d42"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "23864eebcc7167d7650a953c6abd2a87a42875883c2c421afa95056a04abb1f8"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -358,6 +373,11 @@ hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
@@ -388,6 +408,51 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "55565eb8c60fade1b1acc3d73d57c306f9be30a06e3ec2661a21ae26e19ad6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "30acc0d73f31625886ab03cdaf0b5383620588af10c0a72db528181a7c9445e9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/crops-3d.pw.toml"
+hash = "db88c6ec40b395db22745eb0e2f79df48bf7db0f81b4039338fec7ea889d7bef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/falling-sakura.pw.toml"
+hash = "41325893f423ba18ff5a2c20965e2ff93d7be1f3561a93c0d58db4fbf2d1c64d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nautilus3d.pw.toml"
+hash = "a7a1c3e4578630c71c22791e4a4dd6c73b9aeb66aa4618300b2b7dd782e97ea5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "f5abe7e2bc52593cfd19ba54363d155c25eb8ea27c9ce5bd6082b19bfc64e0d8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixlli.pw.toml"
+hash = "30774ab7700258a1d2a7b87608bb4b677e73ad49d0fe00fdd2af42fb0e583487"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellar-3d.pw.toml"
+hash = "70f7463d84548139fb14700b42b0d6bf254c86df1811eb969a2bb97894889b8e"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
+hash = "5a17674d86b72efbef947e9859720c9ff6266d93a6779cab80a8f5aeae0b9455"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "b9dfafb11001e41f91e8ae2a9504efbd031de447f1803df033347d7ed513f3a4"
 metafile = true

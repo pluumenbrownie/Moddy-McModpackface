@@ -1,0 +1,17 @@
+name = "Crops 3D"
+filename = "Crops-3D_MC1.19_v1.2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98a55eed3fae61aad12807c023907ccbf4a568f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087715
+project-id = 364145
+
+[option]
+optional = true
+description = "Resource Pack - Adds 3D models to flowers - Place below 3D crops."

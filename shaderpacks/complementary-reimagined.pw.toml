@@ -11,3 +11,7 @@ hash = "07cd8165acf24ec8ddada03f60729537687dd435"
 [update.modrinth]
 mod-id = "HVnmMxH1"
 version = "pAOQ9Amz"
+
+[option]
+optional = true
+description = "Shader - Adds Complementary shaders."
