@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/Big_Globe__Create.zip"
+hash = "33166d0b08514ba198f67a173fa62def402613cb617d799d81bd8a9389ab36a9"
+
+[[files]]
+file = "global_packs/required_data/Big_Globe__PhilipsRuins__alpha.zip"
+hash = "ae0fb91c9136f4326ba873c434a1c47a8d716e1a433822bc6d092035e5cadfde"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
@@ -148,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "39920920771dad756ccaf18e1509c53d32635828cd2ebf1701d55ea829c9ae97"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
