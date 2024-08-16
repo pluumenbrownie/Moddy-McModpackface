@@ -9,6 +9,10 @@ file = "global_packs/required_data/Big_Globe__PhilipsRuins__alpha.zip"
 hash = "ae0fb91c9136f4326ba873c434a1c47a8d716e1a433822bc6d092035e5cadfde"
 
 [[files]]
+file = "global_packs/required_resources/Big_Globe_retex_by_shes_long_1.2.zip"
+hash = "1fb66db49b86b5530b2f6c54b8927d58316d6b5ba3f94fa20ee8fe2586d79c00"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
