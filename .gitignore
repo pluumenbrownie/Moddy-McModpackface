@@ -6,3 +6,4 @@
 .jar
 .exe
 bin/*
+!import-this/Moddy McModpackface.zip
