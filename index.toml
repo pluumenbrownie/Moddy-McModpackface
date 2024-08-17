@@ -453,6 +453,10 @@ hash = "70f7463d84548139fb14700b42b0d6bf254c86df1811eb969a2bb97894889b8e"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2/shaders/block.properties"
+hash = "5e29425817f9146fa08b6a085803c0725fae5cac06b6a57f9126d72c8e1eaa26"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "5a17674d86b72efbef947e9859720c9ff6266d93a6779cab80a8f5aeae0b9455"
 metafile = true
