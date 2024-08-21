@@ -423,13 +423,58 @@ hash = "30acc0d73f31625886ab03cdaf0b5383620588af10c0a72db528181a7c9445e9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
+hash = "4b922b53eefe13be539efffea4702e6a008e7aaa37eda91db5d662f6eaac9672"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-pbr-beyond.pw.toml"
+hash = "8ec69f49b00867c5313845a73c8f9d7bc5f22ccd448610219396f57ceff88693"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-ultra-pbr.pw.toml"
+hash = "43fc808a4568b5396b51f866c5ee491a2e83e5ca13b29f78d2ed328fcdbac2a2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/crops-3d.pw.toml"
 hash = "28bdbca0f99394fb9fd97c1fdff298a8d99a1f722023581f6d8dc7900186c5dd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/deep-origins-overlays.pw.toml"
+hash = "daa8c139137e44ce240f31757f26aa1a397789e455d94c15ceeeb319feb2cb8d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/defaultpbr.pw.toml"
+hash = "24c486844155477c8c0e3dc0563ee291235e4a15032ab7ea2016fc792d7def56"
+metafile = true
+
+[[files]]
+file = "resourcepacks/embrace-pixels.pw.toml"
+hash = "0654d76395870fbe81c32bd2a3586db073befd60c75f099307e92d7ac85a3ff4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/falling-sakura.pw.toml"
 hash = "41325893f423ba18ff5a2c20965e2ff93d7be1f3561a93c0d58db4fbf2d1c64d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fire-rekindled.pw.toml"
+hash = "73e21de36d54e07d76673706156339ae60420470bf0d4d8751bb5fba41d34743"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/metals-ultra.pw.toml"
+hash = "80ae82dd0fbb3444f563e7c24190d407cde0865ea30d49639e673a112cc7299c"
 metafile = true
 
 [[files]]
@@ -443,8 +488,18 @@ hash = "f5abe7e2bc52593cfd19ba54363d155c25eb8ea27c9ce5bd6082b19bfc64e0d8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/overlays.pw.toml"
+hash = "09925b485b2a16ad06182434d01aec3da3b2d0e0c169656376bc5c6e4d3c965c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/pixlli.pw.toml"
 hash = "30774ab7700258a1d2a7b87608bb4b677e73ad49d0fe00fdd2af42fb0e583487"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "e6d969d9a938570880f1814e6df4fdb1d86aca0e806e7f0e142ab29e0aaa79b8"
 metafile = true
 
 [[files]]
@@ -453,8 +508,23 @@ hash = "70f7463d84548139fb14700b42b0d6bf254c86df1811eb969a2bb97894889b8e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2 + EuphoriaPatches_1.3.2/shaders/block.properties"
 hash = "5e29425817f9146fa08b6a085803c0725fae5cac06b6a57f9126d72c8e1eaa26"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "c8de367e791fa5d6b903ff7154aee21ff66f57e4e484bc53189779c0041c05ba"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "4670d7c2b967ab6c7c2c0b4b46f9cd32698267bdb78a4af985f962c4c5338fbe"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
