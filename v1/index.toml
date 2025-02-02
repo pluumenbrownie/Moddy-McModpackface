@@ -408,10 +408,6 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "pack.toml"
-hash = "ebc15981ebeb1d5a020c3e469b0e0ae4abfa27c70b457716d6bf5cec6e479cb3"
-
-[[files]]
 file = "resourcepacks/3d-crops.pw.toml"
 hash = "55565eb8c60fade1b1acc3d73d57c306f9be30a06e3ec2661a21ae26e19ad6a0"
 metafile = true
